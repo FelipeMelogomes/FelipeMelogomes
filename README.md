@@ -1,6 +1,6 @@
 # Olá! Eu sou o Felipe Melo
 
-- 🔭 Desenvolvedor Back end em Formação!
+- 🔭 Desenvolvedor Front end em Formação!
 - 🌱 Estudando HTML5 CSS3 e JavaScript
 - 😄 Pronouns: Ele/dele
 
