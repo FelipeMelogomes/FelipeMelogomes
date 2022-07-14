@@ -1,7 +1,7 @@
 # Olá! Eu sou o Felipe Melo
 
-- 👩‍💻 Desenvolvedor WEB em Formação!
-- 🌱 Estudando HTML CSS E JavaScript
+- 👩‍💻 Desenvolvedor Web
+- 🌱 Estudando Html,Css e JavaScript
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
