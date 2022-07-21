@@ -37,6 +37,7 @@
 
 ###
 
-![Snake animation](https://github.com/FelipeMelogomes/FelipeMelogomes/blob/output/github-contribution-grid-snake.svg)
-
+<div align="left">
+ ![Snake animation](https://github.com/FelipeMelogomes/FelipeMelogomes/blob/output/github-contribution-grid-snake.svg)
+</div>
 
