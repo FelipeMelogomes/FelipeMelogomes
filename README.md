@@ -3,6 +3,7 @@
 <h3 align="left">💻Desenvolvedor Web.</h3>
 <h3 align="left">👨‍💻Front-end.</h3>
 <h3 align="left">📚Estudando JavaScript.</h3>
+<h3 align="left">🎮Apaixonado por jogos.</h3>
 
 ###
 
